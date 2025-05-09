@@ -1,0 +1,55 @@
+# ----------------------
+# Gradle
+# ----------------------
+.gradle/
+**/build/
+gradle-app.setting
+.gradletasknamecache
+
+# Mantenha o Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
+
+# ----------------------
+# IDEs
+# ----------------------
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VSCode
+.vscode/
+
+# ----------------------
+# Java
+# ----------------------
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.ctxt
+target/
+build/
+# ----------------------
+# Logs/Temporários
+# ----------------------
+*.tmp
+*.swp
+*.swo
+
+# ----------------------
+# Sistema
+# ----------------------
+Thumbs.db
