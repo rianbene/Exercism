@@ -1,4 +1,4 @@
-# 🧠 Soluções de Exercícios Java - Exercism
+# 🧠 Soluções de Exercícios - Exercism
 
 [![Exercism](https://img.shields.io/badge/Exercism-Profile-blue?logo=git&logoColor=white)](https://exercism.org/profiles/SEU_USUARIO)
 [![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)](https://www.java.com)
