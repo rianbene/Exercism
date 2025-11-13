@@ -30,7 +30,7 @@ Confira meu progresso e outros exercícios que resolvi:
 Os exercícios seguem a organização padrão do Exercism CLI:
 ```plaintext
 exercises/
-└── java/
+└── [linguagem]/
     └── [nome-do-exercicio]/
         ├── src/
         │   ├── main/java/   # Código da solução
