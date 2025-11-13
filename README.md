@@ -1,7 +1,7 @@
 # 🧠 Soluções de Exercícios
 
-[![Exercism](https://img.shields.io/badge/Exercism-Profile-blue?logo=git&logoColor=white)](https://exercism.org/profiles/SEU_USUARIO)
-[![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)](https://www.java.com)
+[![Exercism](https://img.shields.io/badge/Exercism-Profile-blue?logo=git&logoColor=white)](https://exercism.org/profiles/rianbene)
+[![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)](https://www.java.com)
 
 Este repositório contém minhas soluções para os exercícios de **Java** propostos pela plataforma [Exercism](https://exercism.org).  
 Aqui você encontrará códigos comentados, testes automatizados e a estrutura recomendada pelo Exercism CLI.
